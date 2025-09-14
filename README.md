@@ -2,7 +2,8 @@
 
 ## Project Overview
 This project implements a RESTful API using Node.js and Express that reads and writes data from multiple JSON files. The API supports basic CRUD operations to fetch, add, update, partially update, and delete records.
-
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/fd1756fb-299f-493d-bf4a-9a415d7c54ba" />
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/b088fc0b-100c-453d-863a-425b86b4f6e2" />
 ## Available JSON Files
 - users.json - Contains user data
 - students.json - Contains student data
@@ -33,3 +34,4 @@ This project implements a RESTful API using Node.js and Express that reads and w
 - `PUT /api/tasks/:id` - Update entire task record
 - `PATCH /api/tasks/:id` - Partially update a task record
 - `DELETE /api/tasks/:id` - Delete a task record
+
